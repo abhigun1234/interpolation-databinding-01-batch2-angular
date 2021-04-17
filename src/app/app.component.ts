@@ -9,6 +9,7 @@ export class AppComponent {
   title = 'angularbasics';
   flag=false
   myName='abhishek'
+  useraarray=[]
   login(name,pass){
 
   console.log("user name",name)
